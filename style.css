@@ -1,0 +1,69 @@
+.img-1 {
+    height: 250px;
+    width: 350px;
+    border-radius: 10px;
+    border: 3px solid rgb(170, 160, 160);
+    background-image: url(images/norway.jpg);
+    background-size: cover;
+}
+.img-2
+{
+    height: 250px;
+    width: 350px;
+    border-radius: 10px;
+    border: 3px solid rgb(170, 160, 160);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlmhI8xuXRB5eEsj5W76Y9YYnxP5rQZxly4gFVd-hpitwaQ4DYZ5dt7M56LTedk4R8PPA&usqp=CAU);
+    background-size: cover;
+}
+.img-3
+{
+    height: 250px;
+    width: 350px;
+    border-radius: 10px;
+    border: 3px solid rgb(170, 160, 160);
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/837/312/873/the-city-blur-spain-barcelona-bokeh-hd-wallpaper-preview.jpg);
+    background-size: cover;
+}
+.images {
+    position: relative;
+    display: inline-block;
+    margin: 15px;
+    color: white;
+}
+
+.txt-1 {
+    position: absolute;
+    top: 90px;
+    left: 50%;
+    width: 200px;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+}
+.txt-2{
+    position: absolute;
+    top: 90px;
+    left: 50%;
+    width: 200px;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+}
+.txt-3{
+    position: absolute;
+    top: 90px;
+    left: 50%;
+    width: 200px;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+}
